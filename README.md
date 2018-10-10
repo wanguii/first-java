@@ -11,4 +11,4 @@ My first commit was interesting.[I'm an upcoming developer](https://www.geeksfor
 + How to know a pull request
 - How to merge things
 + How to have a good README file
-![Images of life of a programmer](gif)
+![Images of life of a programmer](This pc/downloads/gif.GIF File)
