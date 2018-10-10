@@ -1,16 +1,14 @@
+
 ## My first java 
-My first commit was interesting.[I'm an upcoming developer](https://www.youtube.com/)
+My first commit was interesting.[I'm an upcoming developer](https://www.geeksforgeeks.org/)
 
 
-### List
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+### Life as a developer
+>It has a been a great experience at first.So far trying to get all the **basics**.Programming was something I was prepared to venture in and now trying to work so hard to get everything I need to know.
 
-
-+ Books
-- Laptop
-+ School
+#### Things I need to have known in github
+- How to create a github account
++ How to know a pull request
+- How to merge things
++ How to have a good README file
+![Images of life of a programmer](gif)
